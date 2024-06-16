@@ -97,7 +97,7 @@ void main_task(void)
     GPIO_WriteHigh(DISPLAY_B_PORT, DISPLAY_B_PIN); // Turn on CC of units
     delay_ms(1);                                  // eye delay to show result on display
 }
-void encoder_action(int8_t value)
+void encoder_action(int8_t value) //encoder function
 {
     if (state == 1)
     {
@@ -118,7 +118,7 @@ void encoder_action(int8_t value)
             high_temp += value;
     }
 }
-void setup_pwm()
+void setup_pwm() //ventilator inicialized by PWM function
 {
     TIM2_TimeBaseInit(TIM2_PRESCALER_1, 640);
     TIM2_OC1Init(
@@ -129,7 +129,7 @@ void setup_pwm()
     TIM2_OC1PreloadConfig(ENABLE);
     TIM2_Cmd(ENABLE);
 }
-int main(void)
+int main(void) // main loop
 {
     setup();
     init_ath10();
