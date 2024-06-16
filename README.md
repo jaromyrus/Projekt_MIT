@@ -1,2 +1,1 @@
-# Projekt_MIT
-Termoregulátor
+# TERMOREGULÁTOR
