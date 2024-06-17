@@ -30,8 +30,9 @@ Tento projekt implementuje teplotní regulační systém pomocí mikrokontrolér
 4. V hlavní smyčce zpracovávejte stisknutí tlačítka a akce enkodéru pro úpravu teplotních prahů.
 5. Pravidelně čtěte teplotu ze senzoru ATH10 a upravujte PWM výstup na základě teploty.
 
-
+## Blokové schéma projektu
+![Schéma č.1](vyvojovydiagram.png)
 ## Schéma zapojení
 
-![Schéma č.1.](schema_zapojeni.png)
+![Schéma č.2](schema_zapojeni.png)
 
