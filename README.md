@@ -33,5 +33,5 @@ Tento projekt implementuje teplotní regulační systém pomocí mikrokontrolér
 
 ## Schéma zapojení
 
-![Schéma č.1.](/home/kon41232@spseol.cz/Stažené/schema_zapojeni.png)
+![Schéma č.1.](schema_zapojeni.png)
 
