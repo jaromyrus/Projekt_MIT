@@ -32,7 +32,7 @@ Tento projekt implementuje teplotní regulační systém pomocí mikrokontrolér
 
 ## Vývojový diagram
 
-![Schéma č.1](vyvojovydiagram.png)
+![Schéma č.1](diagram.png)
 
 ## Blokové schéma
 
