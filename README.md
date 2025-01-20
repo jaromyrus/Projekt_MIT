@@ -42,3 +42,8 @@ Tento projekt implementuje teplotní regulační systém pomocí mikrokontrolér
 
 ![Schéma č.2](schema_zapojeni.png)
 
+##Závěr
+Splnil jsem úspěšně body zadání a odnesl jsem si z projektu cenné zkušenosti, které v praxi určitě využiju.
+Projekt mi trval přibližně 5 hodin mého drahocenného času, kterého ani vteřinu nelituji.
+Myslím že tato manifestace PWM větráku řízené teplotou se mi velmi povedla.
+
